@@ -2,10 +2,10 @@
 
 <h1><b><center>Greene Street in NYC</center></b></h1>
 
-<p align="center">
-  <b>Project Link:</b>
-  <a href="http://www.greenestreet.nyc/home">GreeneStreet.nyc</a>
-</p>
+
+<b>Project Link:</b>
+<a href="http://www.greenestreet.nyc/home">GreeneStreet.nyc</a>
+
 
 <b>Location</b>: 486 feet of present-day Greene Street between Houston and Prince Streets in Manhattan, New York.
 <br></br>
